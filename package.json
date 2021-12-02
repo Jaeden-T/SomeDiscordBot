@@ -1,0 +1,23 @@
+{
+  "name": "discordbotport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaeden-T/SomeDiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaeden-T/SomeDiscordBot/issues"
+  },
+  "homepage": "https://github.com/Jaeden-T/SomeDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
